@@ -1,0 +1,130 @@
+/* @font-face {
+    font-family: 'ChakraPetch-LightItalic';
+    src: url('../fonts/ChakraPetch-LightItalic.eot');
+    src: url('../fonts/ChakraPetch-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ChakraPetch-LightItalic.woff2') format('woff2'),
+        url('../fonts/ChakraPetch-LightItalic.woff') format('woff'),
+        url('../fonts/ChakraPetch-LightItalic.ttf') format('truetype'),
+        url('../fonts/ChakraPetch-LightItalic.svg#ChakraPetch-LightItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+} */
+
+@font-face {
+    font-family: 'ChakraPetch-Light';
+    src: url('../fonts/ChakraPetch-Light.eot');
+    src: url('../fonts/ChakraPetch-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ChakraPetch-Light.woff2') format('woff2'),
+        url('../fonts/ChakraPetch-Light.woff') format('woff'),
+        url('../fonts/ChakraPetch-Light.ttf') format('truetype'),
+        url('../fonts/ChakraPetch-Light.svg#ChakraPetch-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-Medium';
+    src: url('ChakraPetch-Medium.eot');
+    src: url('ChakraPetch-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-Medium.woff2') format('woff2'),
+        url('ChakraPetch-Medium.woff') format('woff'),
+        url('ChakraPetch-Medium.ttf') format('truetype'),
+        url('ChakraPetch-Medium.svg#ChakraPetch-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-Bold';
+    src: url('ChakraPetch-Bold.eot');
+    src: url('ChakraPetch-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-Bold.woff2') format('woff2'),
+        url('ChakraPetch-Bold.woff') format('woff'),
+        url('ChakraPetch-Bold.ttf') format('truetype'),
+        url('ChakraPetch-Bold.svg#ChakraPetch-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-BoldItalic';
+    src: url('ChakraPetch-BoldItalic.eot');
+    src: url('ChakraPetch-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-BoldItalic.woff2') format('woff2'),
+        url('ChakraPetch-BoldItalic.woff') format('woff'),
+        url('ChakraPetch-BoldItalic.ttf') format('truetype'),
+        url('ChakraPetch-BoldItalic.svg#ChakraPetch-BoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-Italic';
+    src: url('ChakraPetch-Italic.eot');
+    src: url('ChakraPetch-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-Italic.woff2') format('woff2'),
+        url('ChakraPetch-Italic.woff') format('woff'),
+        url('ChakraPetch-Italic.ttf') format('truetype'),
+        url('ChakraPetch-Italic.svg#ChakraPetch-Italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-MediumItalic';
+    src: url('ChakraPetch-MediumItalic.eot');
+    src: url('ChakraPetch-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-MediumItalic.woff2') format('woff2'),
+        url('ChakraPetch-MediumItalic.woff') format('woff'),
+        url('ChakraPetch-MediumItalic.ttf') format('truetype'),
+        url('ChakraPetch-MediumItalic.svg#ChakraPetch-MediumItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-SemiBold';
+    src: url('ChakraPetch-SemiBold.eot');
+    src: url('ChakraPetch-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-SemiBold.woff2') format('woff2'),
+        url('ChakraPetch-SemiBold.woff') format('woff'),
+        url('ChakraPetch-SemiBold.ttf') format('truetype'),
+        url('ChakraPetch-SemiBold.svg#ChakraPetch-SemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-SemiBoldItalic';
+    src: url('ChakraPetch-SemiBoldItalic.eot');
+    src: url('ChakraPetch-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-SemiBoldItalic.woff2') format('woff2'),
+        url('ChakraPetch-SemiBoldItalic.woff') format('woff'),
+        url('ChakraPetch-SemiBoldItalic.ttf') format('truetype'),
+        url('ChakraPetch-SemiBoldItalic.svg#ChakraPetch-SemiBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChakraPetch-Regular';
+    src: url('ChakraPetch-Regular.eot');
+    src: url('ChakraPetch-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ChakraPetch-Regular.woff2') format('woff2'),
+        url('ChakraPetch-Regular.woff') format('woff'),
+        url('ChakraPetch-Regular.ttf') format('truetype'),
+        url('ChakraPetch-Regular.svg#ChakraPetch-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

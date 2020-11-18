@@ -1,0 +1,149 @@
+.first-article-link { 
+    font-size:14px;
+    color:#5863F8;
+}
+.first-article-text {
+    font-size:42px;
+}
+a:visited {
+    color:inherit;
+}
+
+.first-article-header {
+    width:1366px;
+    margin: 0 auto;
+    padding-top:82px;
+    padding-left:163px;
+}
+.first-article-container {
+    width:1088px;
+    margin:0 auto;
+    margin-top:50px;
+    /* background-color:red; */
+}
+.box1,
+.box2 {
+    width:536px;
+    background-color:#F8F8F8;
+}
+.title-1 {
+    font-size:14px;
+    color:#5863F8;
+}
+.title-2 {
+    font-size:18px;
+    color:#000000;
+}
+.paragraph_text {
+    font-size:14px;
+    color:#B1B1B1;
+}
+
+.box1 {
+    float:left;
+}
+.box2 {
+    float:left;
+    margin-left:16px;
+}
+.clear {
+    clear:both;
+}
+
+.photo_box {
+    float:left;
+}
+.all_texts_box {
+    float:left;
+}
+.all_texts_box {
+    width:260px;
+    padding-top:41px;
+    padding-left:16px;
+}
+.title-1 {
+    padding-bottom:7px;
+}
+.title-2 {
+    padding-bottom:12px;
+}
+.box3_and_box4_container .box1, .box3_and_box4_container .box2 {
+    float:right;
+}
+.box3_and_box4_container {
+    margin-top:16px;
+}
+.box3_and_box4_container .box2 {
+    margin-right:16px;
+    margin-left:0;
+}
+
+/* POINTER */
+div[class^="box"] {
+    cursor:pointer;
+}
+
+body {
+    font-family: 'ChakraPetch-Light';
+}
+
+
+/* Second Section */
+.second-article-header {
+    width:1366px;
+    margin: 0 auto;
+    padding-top:94px;
+    padding-left:163px;
+}
+.second_article_text {
+    width:420px;
+}
+
+/* BLOG */
+.blogs_article_container {
+    width:1088;
+    margin:0 auto;
+    margin-bottom:87px;
+    margin-top:50px;
+}
+.blog1, 
+.blog2,
+.blog3 {
+    width:352px;
+    background-color:#F8F8F8;
+    float:left;
+}
+.blog1_texts {
+    width:260px;
+    text-align:center;
+    padding-left:46px;
+}
+.blogs_titles_line1 {
+    font-size:14px;
+    color:#5863F8;
+    padding-top:23px;
+    padding-bottom:5px;
+    
+}
+.blogs_titles_line2 {
+    font-size:18px;
+    color:#000000;
+    padding-bottom:10px;
+}
+.blogs_paragraphs {
+    font-size:14px;
+    color:#B1B1B1;
+    padding-bottom:23px;
+
+}
+
+.blog1 {
+    margin-left:163px;
+    margin-right:16px;
+}
+.blog2 {
+    margin-right:16px;
+}
+.three_blogs_in_line2 {
+    margin-top:16px;
+}
